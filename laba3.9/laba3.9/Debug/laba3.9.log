@@ -1,0 +1,4 @@
+﻿  laba3.9.cpp
+D:\OAIP_2\laba3.9\laba3.9\laba3.9.cpp(16,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\OAIP_2\laba3.9\laba3.9\laba3.9.cpp(16,77): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  laba3.9.vcxproj -> D:\OAIP_2\laba3.9\Debug\laba3.9.exe
