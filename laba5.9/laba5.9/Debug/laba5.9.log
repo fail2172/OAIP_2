@@ -1,0 +1,3 @@
+﻿  laba5.9.cpp
+D:\OAIP_2\laba5.9\laba5.9\laba5.9.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba5.9.vcxproj -> D:\OAIP_2\laba5.9\Debug\laba5.9.exe
